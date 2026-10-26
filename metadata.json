@@ -1,0 +1,6 @@
+{
+  "name": "PulseDraft - Stakeholder Email Studio",
+  "description": "Transform rough project notes and meeting updates into polished, stakeholder-ready emails with verified action item tables and zero hallucinated facts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
